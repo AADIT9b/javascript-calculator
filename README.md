@@ -11,9 +11,8 @@ A simple calculator built using HTML, CSS and JavaScript.
 - HTML
 - CSS
 - JavaScript
-##Screenshot
+  
 ## Screenshot
-
 ![Calculator Screenshot](screenshot(238).png)
 
 
