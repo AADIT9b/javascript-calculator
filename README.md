@@ -13,7 +13,7 @@ A simple calculator built using HTML, CSS and JavaScript.
 - JavaScript
   
 ## Screenshot
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot%20(238).png)
 
 
 ## How to Run the Project
